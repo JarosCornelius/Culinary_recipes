@@ -1,0 +1,60 @@
+S: 1 Jajka
+S: 2 Maka
+S: 3 Woda
+S: 4 Sol
+S: 5 Cebula
+S: 6 Buraki
+S: 7 Tluszcz
+S: 8 Miesko
+S: 9 Makaron
+S: 10 cebula
+S: 11 Przyprawa do miesa
+S: 12 Ketchup
+
+
+P: 1 Nalesniki 30
+Wymieszaj mikserem skladniki i usmaz na wysokim ogniu.
+P: 2 Rosol 60
+Zagotuj wode, wrzuc skladniki, poczekaj godzine.
+P: 3 Barszcz 60
+Zagotuj wode, wrzuc skladniki, poczekaj godzine.
+P: 4 Pierogi 90
+Maka, woda, jajko wymieszac. Rozciagnac i faszerowac. Zagotowac.
+P: 5 Drozdzowka 30
+Wymieszaj skladniki i upiecz.
+P: 6 Spaghetti 30
+Przydus miesko, ugotuj makaron, do mieska dodaj pomidory i sos gotowy!
+P: 7 Mielone 20
+Zrób z mieska i cebuli kuleczki, posol je, smaz przez 10 minut.
+P: 8 Pomidorowa 2
+Ugotuj rosol, wloz do rosolu pare lyzeczek ketchupu, pomidorowa gotowa! 
+P: 9 Gyros 20
+Potnij miesko z kurczaka na drobne kawalki, dodaj przyprawe, dus na patelni.
+W: 1 1
+W: 2 1
+W: 3 1
+O: 4 1
+W: 3 2
+O: 4 2
+W: 5 2
+W: 3 3
+W: 4 3
+W: 5 3
+W: 6 3
+W: 2 4
+W: 3 4
+W: 4 4
+W: 1 5
+W: 2 5
+W: 3 5
+W: 4 5
+O: 7 5
+W: 9 6
+W: 8 6
+W: 10 7
+W: 8 7
+O: 11 7
+W: 4 7
+W: 12 8
+W: 8 9
+W: 11 9
